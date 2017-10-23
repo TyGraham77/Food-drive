@@ -1,0 +1,70 @@
+<html>
+    
+    
+    <head>
+     <title>Food Drive</title>   
+        
+    <style>
+        a:link, a:visited {
+            background-color: #00b300;
+            color: white;
+            padding: 14px 25px;
+            text-align: center; 
+            text-decoration: none;
+            display: inline-block;
+        }
+     h2{
+         font-size:48px;
+     }  
+      #background 
+      
+      { background-color: #669999; 
+      }
+       a{
+           border-radius:25%;
+           
+       }
+       
+       
+        </style>
+ </head>
+    <body>
+     <center><img  src="http://www.foodbankrgv.net/wp-content/uploads/2015/08/food_drive_graphic-1024x546.png" 
+     style="width:512px;height:273px;"></center>
+      <center> <h2><a href="#">Home</a> <a href="#">Donate</a> <a href="#">Volunteer</a> <a href="#"> Contact Us</a></h2></center>
+<center><h2>Please Help!</h2></center>
+   <p>Our annual food drive takes place this month. This event is the largest one-day food drive in the metropolitan area and has helped feed those in need since 1991. We strive to provide the most nutritious food for individuals and families in our community. If you are unable to bring items to the food bank at 2828 North Central Avenue, please consider giving a cash donation. For every dollar that you donate, our food bank can buy $12 worth of food using wholesale discounts.</p>
+   <br>
+   <center><h2>Please Mail Donations To:</h2></center>
+   
+   
+  <center><b><p>Community Food Drive</p>
+
+<p>2828 North Central Avenue</p>
+
+<p>Phoenix, AZ 85000</p></b></center>
+   <br>
+ <h3><center><p>Please donate non-perishable foods or sign up to volunteer your time.</p>
+  <p>The most needed non-perishable foods are:</p></h3>
+   
+   <ul>
+       <li>Canned vegetables, fruit, meats, and fish</li>
+       <li>Pasta and tomato sauce</li>
+       <li>Cereal and oatmeal</li>
+       <li>Powdered milk</li>
+   </ul> 
+   
+  <center> <h2>Join Now!</h2></center>
+   <table>
+    <tr>
+    
+    </tr>   
+       
+   </table>
+   
+   
+   
+    </body>
+    
+    
+</html>
